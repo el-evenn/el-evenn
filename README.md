@@ -30,7 +30,7 @@ peter = {
 
 ## Currently
 
-- Building **MuraNest**, an Android app helping students find affordable accommodation
+- Building a **chess game** using HTML and Java Script.
 - Hardening and extending a **Django real estate** platform
 - Practising cyber security through CTFs and hands-on labs
 
